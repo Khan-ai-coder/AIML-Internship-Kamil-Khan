@@ -1,2 +1,2 @@
-# AIML-Internship-Kamil-Khan
-This is all about the Data Science internship, and different files will be stored in this Repo.
+I am a BS Software Engineering student, and this repository will contain all of our task, weekly assignments, and final project.
+Different files will be created for this complete internship.
